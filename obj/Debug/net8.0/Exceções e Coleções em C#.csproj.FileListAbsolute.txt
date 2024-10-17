@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\bin\Debug\net8.0\Exceções e Coleções em C#.exe
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\bin\Debug\net8.0\Exceções e Coleções em C#.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\bin\Debug\net8.0\Exceções e Coleções em C#.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\bin\Debug\net8.0\Exceções e Coleções em C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\bin\Debug\net8.0\Exceções e Coleções em C#.pdb
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\refint\Exceções e Coleções em C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.pdb
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\Exceções e Coleções em C#.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\Exceções e Coleções em C#\obj\Debug\net8.0\ref\Exceções e Coleções em C#.dll
